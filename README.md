@@ -30,7 +30,7 @@ The debounce function helps to manage time of execution your scripts. You can us
  };
 
 document.getElementById('registration--button').on('click', () => {
-  debounce(myAwesomeRegistrationLogin, 5000);
+   debounce(myAwesomeRegistrationLogin, 5000);
 });
 
 ```
