@@ -1,0 +1,25 @@
+{
+  "name": "debounce-example",
+  "version": "1.0.0",
+  "description": "Sample debounce function",
+  "main": "src/debounce.js",
+  "scripts": {
+    "prepublishOnly": "npm version patch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusHV/debounce-example.git"
+  },
+  "keywords": [
+    "debounce",
+    "example-debounce",
+    "function"
+  ],
+  "author": "Jesus Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusHV/debounce-example/issues"
+  },
+  "homepage": "https://github.com/JesusHV/debounce-example#readme"
+}
